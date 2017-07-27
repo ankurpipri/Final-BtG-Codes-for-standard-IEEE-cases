@@ -15,10 +15,10 @@ These scripts are written in order to simulate the case files with parameters as
 
 The grid network and building parameters can also be changed as required. For this user is directed to the the repository named 'Final-BtG-Codes (General Version)', also it is requested to study publication [1] thoroughly  before making any changes. 
 
-#Steps to execute the codes:
+## Steps to execute the codes:
 
-##1). Run the m file named 'User_file_to_run.m'.
+### 1). Run the m file named 'User_file_to_run.m'.
 
-##2). Please select the case file to be Simulated from the options available.
+### 2). Please select the case file to be Simulated from the options available.
 
-##3). Select the scenario which is to be simulated, for details please refer to the paper [1] mentioned above. The BtG-GMPC scenario is the third one.
+### 3). Select the scenario which is to be simulated, for details please refer to the paper [1] mentioned above. The BtG-GMPC scenario is the third one.
